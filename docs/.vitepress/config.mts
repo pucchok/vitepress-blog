@@ -37,7 +37,7 @@ export default defineConfig({
         text: 'Tools',
         items: [
           { text: 'Tools一覧', link: '/tools' },
-          { text: 'tool1', link: '/tools/tool1' },
+          { text: 'efekprojをefkに変換するツール', link: '/tools/transformEfk' },
         ],
       },
     ],

@@ -13,17 +13,20 @@ hero:
       text: Games
       link: /games
     - theme: alt
-      text: App
+      text: Apps
       link: /apps
     - theme: alt
       text: Tools
       link: /tools
 
 features:
+  - title: 【Tools】 efkprojファイルをefkファイルに変換するツール
+    details: efekseerで利用するefkprojファイルをefkに変換するpowershellです
+    link: /tools/transformEfk
   - title: 【Apps】 TODOアプリ
     details: チャットアプリ形式でタスクを追加できるアプリです
     link: /apps/todo
   - title: 【Apps】 架空のカフェHP
     details: 架空のカフェのHPです
-    link: /apps/cafeHP
+    link: /apps/cafeHP 
 ---
