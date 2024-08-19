@@ -24,5 +24,6 @@ prev: false
 *  Netlify
 
 ## アプリのリンク
-[こちら](https://chotchat.netlify.app/)
+[こちら](https://chotchat.netlify.app/)  
+※追加したタスクはセッションストレージに保存されます
 
